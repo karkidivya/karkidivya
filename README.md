@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://i.pinimg.com/originals/90/a4/83/90a4835591045e3ea7e837c128f43dd6.jpg)](https://karkidivya.io)  --!>
+
 
 <h3 align="center">A passionate web developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/what-is-artificial-intelligence-ai.jpg">
