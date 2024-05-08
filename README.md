@@ -1,5 +1,5 @@
 <h3 align="center">A passionate web developer from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://plus.unsplash.com/premium_photo-1682002193011-9c0d5e58d6b1?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://plus.unsplash.com/premium_photo-1682002193011-9c0d5e58d6b1?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)">
+<img align="right" alt="Coding" width="400" src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/what-is-artificial-intelligence-ai.jpg">
 
 
 - 🔭 I’m currently working on **Myself**
