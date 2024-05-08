@@ -3,7 +3,6 @@
 <h3 align="center">A passionate web developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/what-is-artificial-intelligence-ai.jpg">
 
-
 - 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **machine learning**
